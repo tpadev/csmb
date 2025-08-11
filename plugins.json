@@ -19,7 +19,31 @@
         ],
         "version": 22,
         "internalName": "MovieBox",
-        "url": "https://github.com/tpadev/csmb/raw/refs/heads/main/MovieBox.cs3",
-        "name": "MovieBox"
+        "url": "https://github.com/tpadev/csmb/raw/refs/heads/main/MB.cs3",
+        "name": "MvieBox"
+    },
+    {
+        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://moviebox.ph/&size=64",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/tpadev/csmb",
+        "fileSize": 61715,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "csmb"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Movie",
+            "TvSeries",
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 22,
+        "internalName": "MovieBoxplus",
+        "url": "https://github.com/tpadev/csmb/raw/refs/heads/main/MBplus.cs3",
+        "name": "MvieBoxplus"
     }
+
 ]
