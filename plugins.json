@@ -18,7 +18,7 @@
             "OVA"
         ],
         "version": 22,
-        "internalName": "MovieBox",
+        "internalName": "MvieBox",
         "url": "https://github.com/tpadev/csmb/raw/refs/heads/main/MB.cs3",
         "name": "MvieBox"
     },
@@ -41,7 +41,7 @@
             "OVA"
         ],
         "version": 22,
-        "internalName": "MovieBoxplus",
+        "internalName": "MvieBoxplus",
         "url": "https://github.com/tpadev/csmb/raw/refs/heads/main/MBplus.cs3",
         "name": "MvieBoxplus"
     }
