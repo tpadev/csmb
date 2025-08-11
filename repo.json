@@ -3,6 +3,6 @@
     "description": "Custom repository.",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/tpadev/csmb/plugins.json"
+      "https://raw.githubusercontent.com/tpadev/csmb/refs/heads/main/plugins.json"
     ]
 }
