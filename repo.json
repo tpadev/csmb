@@ -1,0 +1,8 @@
+{
+    "name": "csmb repository",
+    "description": "Custom repository.",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/csmb/provider/builds/plugins.json"
+    ]
+}
